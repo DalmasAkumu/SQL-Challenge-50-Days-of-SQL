@@ -26,4 +26,3 @@ Intermediate SQL: JOINs, Subqueries, Aggregations, etc.
 Advanced SQL: Window Functions, CTEs, Indexing, Optimization, etc.
 
 Real-World Problems: Complex queries inspired by real-world scenarios.
-
